@@ -3,7 +3,7 @@
 </h2>
 
 <h4 align='center'>
-  Senior React JS Developer 
+  Senior Frontend Developer 
 </h4>
 
 
