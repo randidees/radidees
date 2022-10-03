@@ -23,16 +23,11 @@ Interested in roles indulging best practices and offering diverse customer proje
 <p>
 
 <h2>ℹ️ &nbsp;Github Info</h2>
-	
- <summary><b>🔥 Github Streaks</b></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=brown-qs&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="corasphinx" /></p>
-
 
   <summary><b>⚡ Github Stats</b></summary>
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=brown-qs&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="brown-qs" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=brown-qs&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="brown-qs" align = "center"/></p>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=brown-qs&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="brown-qs" align = "center"/></p>
 
-
+	
  <summary><b>🔥 Github Streaks</b></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=brown-qs&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="corasphinx" /></p>
 
